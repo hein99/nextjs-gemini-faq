@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 This is an FAQ page project created using Next.js. In this project [Gemini API](https://ai.google.dev/tutorials/node_quickstart) is used as a chat bot.
 
 ## Installation
@@ -16,4 +14,4 @@ npm install
 npm run dev
 ```
 
-Finally you should access the website localhost:3000
+Finally you should access the website via localhost:3000
